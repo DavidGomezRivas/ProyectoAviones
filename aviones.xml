@@ -1,0 +1,1676 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Aviones>
+	<Avion id="1">
+		<Plane>Boeing 737-800</Plane>
+		<passenger_capacity>189</passenger_capacity>
+		<fuel_capacity_litres>26020</fuel_capacity_litres>
+		<max_takeoff_weight_kg>79000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>63320</max_landing_weight_kg>
+		<empty_weight_kg>41140</empty_weight_kg>
+		<range_km>5400</range_km>
+		<engine>CFMI CFM56-7B24/26, 2 x 24170-26290 lb</engine>
+		<cruise_speed_kmph>850</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/Boeing_737-800.png</imgThumb>
+	</Avion>
+	<Avion id="2">
+		<Plane>A220 100</Plane>
+		<passenger_capacity>135</passenger_capacity>
+		<fuel_capacity_litres>21918</fuel_capacity_litres>
+		<max_takeoff_weight_kg>60800</max_takeoff_weight_kg>
+		<max_landing_weight_kg>52400</max_landing_weight_kg>
+		<empty_weight_kg>50300</empty_weight_kg>
+		<range_km>5460</range_km>
+		<engine>2 x Pratt and Whitney PW1500G</engine>
+		<cruise_speed_kmph>840</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A220_100.jpg</imgThumb>
+	</Avion>
+	<Avion id="3">
+		<Plane>A220 300</Plane>
+		<passenger_capacity>160</passenger_capacity>
+		<fuel_capacity_litres>21918</fuel_capacity_litres>
+		<max_takeoff_weight_kg>67600</max_takeoff_weight_kg>
+		<max_landing_weight_kg>58740</max_landing_weight_kg>
+		<empty_weight_kg>55800</empty_weight_kg>
+		<range_km>5920</range_km>
+		<engine>2 x Pratt and Whitney PW1500G</engine>
+		<cruise_speed_kmph>840</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A220_300.jpg</imgThumb>
+	</Avion>
+	<Avion id="4">
+		<Plane>A300B4-200</Plane>
+		<passenger_capacity>345</passenger_capacity>
+		<fuel_capacity_litres>62000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>165000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>136000</max_landing_weight_kg>
+		<empty_weight_kg>126000</empty_weight_kg>
+		<range_km>5375</range_km>
+		<engine>2x CF6-50C2, JT9D-59A</engine>
+		<cruise_speed_kmph>833</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A300B4-200.jpg</imgThumb>
+	</Avion>
+	<Avion id="5">
+		<Plane>A300-600R</Plane>
+		<passenger_capacity>345</passenger_capacity>
+		<fuel_capacity_litres>68160</fuel_capacity_litres>
+		<max_takeoff_weight_kg>171700</max_takeoff_weight_kg>
+		<max_landing_weight_kg>140000</max_landing_weight_kg>
+		<empty_weight_kg>130000</empty_weight_kg>
+		<range_km>7500</range_km>
+		<engine>2x CF6-50C2, JT9D-59A</engine>
+		<cruise_speed_kmph>833</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A330_600R.jpg</imgThumb>
+	</Avion>
+	<Avion id="6">
+		<Plane>A318</Plane>
+		<passenger_capacity>107</passenger_capacity>
+		<fuel_capacity_litres>24210</fuel_capacity_litres>
+		<max_takeoff_weight_kg>68000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>57500</max_landing_weight_kg>
+		<empty_weight_kg>39500</empty_weight_kg>
+		<range_km>5750</range_km>
+		<engine>CFM International CFM56-5 series</engine>
+		<cruise_speed_kmph>828</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A318.jpg</imgThumb>
+	</Avion>
+	<Avion id="7">
+		<Plane>A319 Neo</Plane>
+		<passenger_capacity>140</passenger_capacity>
+		<fuel_capacity_litres>30190</fuel_capacity_litres>
+		<max_takeoff_weight_kg>75500</max_takeoff_weight_kg>
+		<max_landing_weight_kg>62500</max_landing_weight_kg>
+		<empty_weight_kg>42600</empty_weight_kg>
+		<range_km>6950</range_km>
+		<engine>CFM International LEAP-1A, Pratt &amp; Whitney PW110</engine>
+		<cruise_speed_kmph>828</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A319_Neo.jpg</imgThumb>
+	</Avion>
+	<Avion id="8">
+		<Plane>A320 Neo</Plane>
+		<passenger_capacity>165</passenger_capacity>
+		<fuel_capacity_litres>27200</fuel_capacity_litres>
+		<max_takeoff_weight_kg>79000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>66000</max_landing_weight_kg>
+		<empty_weight_kg>44300</empty_weight_kg>
+		<range_km>6500</range_km>
+		<engine>CFM International LEAP-1A, Pratt &amp; Whitney PW110</engine>
+		<cruise_speed_kmph>828</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A320_Neo.jpg</imgThumb>
+	</Avion>
+	<Avion id="9">
+		<Plane>A321 Neo</Plane>
+		<passenger_capacity>190</passenger_capacity>
+		<fuel_capacity_litres>30030</fuel_capacity_litres>
+		<max_takeoff_weight_kg>97000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>77800</max_landing_weight_kg>
+		<empty_weight_kg>50100</empty_weight_kg>
+		<range_km>7400</range_km>
+		<engine>CFM International LEAP-1A, Pratt &amp; Whitney PW110</engine>
+		<cruise_speed_kmph>828</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A321_Neo.jpg</imgThumb>
+	</Avion>
+	<Avion id="10">
+		<Plane>A330-200ceo</Plane>
+		<passenger_capacity>253</passenger_capacity>
+		<fuel_capacity_litres>139090</fuel_capacity_litres>
+		<max_takeoff_weight_kg>233000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>180000</max_landing_weight_kg>
+		<empty_weight_kg>119600</empty_weight_kg>
+		<range_km>13430</range_km>
+		<engine>General Electric CF6-80E1, Pratt &amp; Whitney PW400</engine>
+		<cruise_speed_kmph>1061</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A330-200ceo.jpg</imgThumb>
+	</Avion>
+	<Avion id="11">
+		<Plane>A330-200F (Freight)</Plane>
+		<passenger_capacity>4</passenger_capacity>
+		<fuel_capacity_litres>139090</fuel_capacity_litres>
+		<max_takeoff_weight_kg>227000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>180000</max_landing_weight_kg>
+		<empty_weight_kg>109000</empty_weight_kg>
+		<range_km>7400</range_km>
+		<engine>Pratt &amp; Whitney PW4000, Rolls-Royce Trent 700</engine>
+		<cruise_speed_kmph>1061</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A330-200F.jpg</imgThumb>
+	</Avion>
+	<Avion id="12">
+		<Plane>A330-300ceo</Plane>
+		<passenger_capacity>295</passenger_capacity>
+		<fuel_capacity_litres>139090</fuel_capacity_litres>
+		<max_takeoff_weight_kg>230000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>185000</max_landing_weight_kg>
+		<empty_weight_kg>124500</empty_weight_kg>
+		<range_km>10830</range_km>
+		<engine>General Electric CF6-80E1, Pratt &amp; Whitney PW400</engine>
+		<cruise_speed_kmph>1061</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A330-300ceo.jpg</imgThumb>
+	</Avion>
+	<Avion id="13">
+		<Plane>A330-800neo</Plane>
+		<passenger_capacity>257</passenger_capacity>
+		<fuel_capacity_litres>97530</fuel_capacity_litres>
+		<max_takeoff_weight_kg>242200</max_takeoff_weight_kg>
+		<max_landing_weight_kg>186000</max_landing_weight_kg>
+		<empty_weight_kg>176000</empty_weight_kg>
+		<range_km>13900</range_km>
+		<engine>Rolls Royce Trent 7000</engine>
+		<cruise_speed_kmph>919</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A330-800neo.jpg</imgThumb>
+	</Avion>
+	<Avion id="14">
+		<Plane>A330-900neo</Plane>
+		<passenger_capacity>287</passenger_capacity>
+		<fuel_capacity_litres>139090</fuel_capacity_litres>
+		<max_takeoff_weight_kg>242200</max_takeoff_weight_kg>
+		<max_landing_weight_kg>191000</max_landing_weight_kg>
+		<empty_weight_kg>181000</empty_weight_kg>
+		<range_km>12130</range_km>
+		<engine>Rolls Royce Trent 7000</engine>
+		<cruise_speed_kmph>919</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A330-900neo.jpg</imgThumb>
+	</Avion>
+	<Avion id="15">
+		<Plane>A340 200</Plane>
+		<passenger_capacity>300</passenger_capacity>
+		<fuel_capacity_litres>155040</fuel_capacity_litres>
+		<max_takeoff_weight_kg>275000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>181000</max_landing_weight_kg>
+		<empty_weight_kg>129000</empty_weight_kg>
+		<range_km>15000</range_km>
+		<engine>4 x CFM56-5C</engine>
+		<cruise_speed_kmph>871</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A340_200.jpg</imgThumb>
+	</Avion>
+	<Avion id="16">
+		<Plane>A340 300</Plane>
+		<passenger_capacity>335</passenger_capacity>
+		<fuel_capacity_litres>147850</fuel_capacity_litres>
+		<max_takeoff_weight_kg>276500</max_takeoff_weight_kg>
+		<max_landing_weight_kg>192000</max_landing_weight_kg>
+		<empty_weight_kg>130200</empty_weight_kg>
+		<range_km>13700</range_km>
+		<engine>4 x CFM56-5C</engine>
+		<cruise_speed_kmph>871</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A340_300.jpg</imgThumb>
+	</Avion>
+	<Avion id="17">
+		<Plane>A340 500</Plane>
+		<passenger_capacity>359</passenger_capacity>
+		<fuel_capacity_litres>214810</fuel_capacity_litres>
+		<max_takeoff_weight_kg>372000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>190000</max_landing_weight_kg>
+		<empty_weight_kg>170900</empty_weight_kg>
+		<range_km>17000</range_km>
+		<engine>4 x Rolls Royce Trent 500</engine>
+		<cruise_speed_kmph>881</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A340_500.jpg</imgThumb>
+	</Avion>
+	<Avion id="18">
+		<Plane>A340 600</Plane>
+		<passenger_capacity>419</passenger_capacity>
+		<fuel_capacity_litres>195880</fuel_capacity_litres>
+		<max_takeoff_weight_kg>368000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>259000</max_landing_weight_kg>
+		<empty_weight_kg>177800</empty_weight_kg>
+		<range_km>14600</range_km>
+		<engine>4 x Rolls Royce Trent 500</engine>
+		<cruise_speed_kmph>881</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A340_600.jpg</imgThumb>
+	</Avion>
+	<Avion id="19">
+		<Plane>A350-800 XWB</Plane>
+		<passenger_capacity>270</passenger_capacity>
+		<fuel_capacity_litres>138000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>248000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>190000</max_landing_weight_kg>
+		<empty_weight_kg>178000</empty_weight_kg>
+		<range_km>15700</range_km>
+		<engine>Rolls Royce Trent XWB</engine>
+		<cruise_speed_kmph>1099</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A350-800.jpg</imgThumb>
+	</Avion>
+	<Avion id="20">
+		<Plane>A350-900 XWB</Plane>
+		<passenger_capacity>314</passenger_capacity>
+		<fuel_capacity_litres>138000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>268000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>205000</max_landing_weight_kg>
+		<empty_weight_kg>192000</empty_weight_kg>
+		<range_km>15000</range_km>
+		<engine>Rolls Royce Trent XWB</engine>
+		<cruise_speed_kmph>1099</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A350-900.jpg</imgThumb>
+	</Avion>
+	<Avion id="21">
+		<Plane>A350-1000 XWB</Plane>
+		<passenger_capacity>350</passenger_capacity>
+		<fuel_capacity_litres>156000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>308000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>233000</max_landing_weight_kg>
+		<empty_weight_kg>220000</empty_weight_kg>
+		<range_km>15600</range_km>
+		<engine>Rolls Royce Trent XWB</engine>
+		<cruise_speed_kmph>1099</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A350-1000.jpg</imgThumb>
+	</Avion>
+	<Avion id="22">
+		<Plane>A380-800</Plane>
+		<passenger_capacity>555</passenger_capacity>
+		<fuel_capacity_litres>320000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>560000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>386000</max_landing_weight_kg>
+		<empty_weight_kg>361000</empty_weight_kg>
+		<range_km>15000</range_km>
+		<engine>Rolls-Royce Trent 900</engine>
+		<cruise_speed_kmph>1099</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/A380-800.jpg</imgThumb>
+	</Avion>
+	<Avion id="23">
+		<Plane>ATR 42-300</Plane>
+		<passenger_capacity>48</passenger_capacity>
+		<fuel_capacity_litres>4500</fuel_capacity_litres>
+		<max_takeoff_weight_kg>16700</max_takeoff_weight_kg>
+		<max_landing_weight_kg>16400</max_landing_weight_kg>
+		<empty_weight_kg>15200</empty_weight_kg>
+		<range_km>845</range_km>
+		<engine>Pratt and Whitney PW120</engine>
+		<cruise_speed_kmph>493</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ATR_42-300.jpg</imgThumb>
+	</Avion>
+	<Avion id="24">
+		<Plane>ATR 42-320</Plane>
+		<passenger_capacity>48</passenger_capacity>
+		<fuel_capacity_litres>4500</fuel_capacity_litres>
+		<max_takeoff_weight_kg>16700</max_takeoff_weight_kg>
+		<max_landing_weight_kg>16400</max_landing_weight_kg>
+		<empty_weight_kg>15200</empty_weight_kg>
+		<range_km>851</range_km>
+		<engine>Pratt and Whitney PW121</engine>
+		<cruise_speed_kmph>500</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ATR_42-320.jpg</imgThumb>
+	</Avion>
+	<Avion id="25">
+		<Plane>ATR 42-400</Plane>
+		<passenger_capacity>48</passenger_capacity>
+		<fuel_capacity_litres>4500</fuel_capacity_litres>
+		<max_takeoff_weight_kg>17900</max_takeoff_weight_kg>
+		<max_landing_weight_kg>17600</max_landing_weight_kg>
+		<empty_weight_kg>16300</empty_weight_kg>
+		<range_km>1470</range_km>
+		<engine>Pratt and Whitney PW121A</engine>
+		<cruise_speed_kmph>484</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ATR_42-400.jpg</imgThumb>
+	</Avion>
+	<Avion id="26">
+		<Plane>ATR 42-500</Plane>
+		<passenger_capacity>48</passenger_capacity>
+		<fuel_capacity_litres>4500</fuel_capacity_litres>
+		<max_takeoff_weight_kg>18600</max_takeoff_weight_kg>
+		<max_landing_weight_kg>18300</max_landing_weight_kg>
+		<empty_weight_kg>16700</empty_weight_kg>
+		<range_km>1326</range_km>
+		<engine>Pratt and Whitney PW127EM</engine>
+		<cruise_speed_kmph>556</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ATR_42-500.jpg</imgThumb>
+	</Avion>
+	<Avion id="27">
+		<Plane>ATR 42-600</Plane>
+		<passenger_capacity>48</passenger_capacity>
+		<fuel_capacity_litres>4500</fuel_capacity_litres>
+		<max_takeoff_weight_kg>18600</max_takeoff_weight_kg>
+		<max_landing_weight_kg>18300</max_landing_weight_kg>
+		<empty_weight_kg>16700</empty_weight_kg>
+		<range_km>1326</range_km>
+		<engine>Pratt and Whitney PW127M</engine>
+		<cruise_speed_kmph>556</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ATR_42-600.jpg</imgThumb>
+	</Avion>
+	<Avion id="28">
+		<Plane>ATR 72-200</Plane>
+		<passenger_capacity>66</passenger_capacity>
+		<fuel_capacity_litres>5000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>21500</max_takeoff_weight_kg>
+		<max_landing_weight_kg>21350</max_landing_weight_kg>
+		<empty_weight_kg>19700</empty_weight_kg>
+		<range_km>1615</range_km>
+		<engine>Pratt and Whitney PW124B</engine>
+		<cruise_speed_kmph>515</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ATR_72-200.jpg</imgThumb>
+	</Avion>
+	<Avion id="29">
+		<Plane>ATR 72-210</Plane>
+		<passenger_capacity>66</passenger_capacity>
+		<fuel_capacity_litres>5000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>21500</max_takeoff_weight_kg>
+		<max_landing_weight_kg>21350</max_landing_weight_kg>
+		<empty_weight_kg>19700</empty_weight_kg>
+		<range_km>1491</range_km>
+		<engine>Pratt and Whitney PW127</engine>
+		<cruise_speed_kmph>517</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ATR_72-210.jpg</imgThumb>
+	</Avion>
+	<Avion id="30">
+		<Plane>ATR 72-500</Plane>
+		<passenger_capacity>68</passenger_capacity>
+		<fuel_capacity_litres>5000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>22000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>21850</max_landing_weight_kg>
+		<empty_weight_kg>44092</empty_weight_kg>
+		<range_km>1454</range_km>
+		<engine>Pratt and Whitney PW127F/M</engine>
+		<cruise_speed_kmph>510</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ATR_72-500.jpg</imgThumb>
+	</Avion>
+	<Avion id="31">
+		<Plane>ATR 72-600</Plane>
+		<passenger_capacity>70</passenger_capacity>
+		<fuel_capacity_litres>5000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>22800</max_takeoff_weight_kg>
+		<max_landing_weight_kg>22350</max_landing_weight_kg>
+		<empty_weight_kg>20800</empty_weight_kg>
+		<range_km>1528</range_km>
+		<engine>Pratt and Whitney PW127M</engine>
+		<cruise_speed_kmph>510</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ATR_72-600.jpg</imgThumb>
+	</Avion>
+	<Avion id="32">
+		<Plane>BAe 146-100/RJ70</Plane>
+		<passenger_capacity>82</passenger_capacity>
+		<fuel_capacity_litres>12901</fuel_capacity_litres>
+		<max_takeoff_weight_kg>38102</max_takeoff_weight_kg>
+		<max_landing_weight_kg>37875</max_landing_weight_kg>
+		<empty_weight_kg>23820</empty_weight_kg>
+		<range_km>3870</range_km>
+		<engine>4 X BAe 146: Lycoming ALF 502R-5, Avro RJ: Honey</engine>
+		<cruise_speed_kmph>890</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/BAe_146-100_RJ70.jpg</imgThumb>
+	</Avion>
+	<Avion id="33">
+		<Plane>BAe 146-200/RJ85</Plane>
+		<passenger_capacity>100</passenger_capacity>
+		<fuel_capacity_litres>12901</fuel_capacity_litres>
+		<max_takeoff_weight_kg>42185</max_takeoff_weight_kg>
+		<max_landing_weight_kg>38556</max_landing_weight_kg>
+		<empty_weight_kg>24600</empty_weight_kg>
+		<range_km>3650</range_km>
+		<engine>4 X BAe 146: Lycoming ALF 502R-5, Avro RJ: Honey</engine>
+		<cruise_speed_kmph>890</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/BAe_146-200_RJ85.jpg</imgThumb>
+	</Avion>
+	<Avion id="34">
+		<Plane>BAe 146-300/RJ100</Plane>
+		<passenger_capacity>112</passenger_capacity>
+		<fuel_capacity_litres>12901</fuel_capacity_litres>
+		<max_takeoff_weight_kg>44226</max_takeoff_weight_kg>
+		<max_landing_weight_kg>40143</max_landing_weight_kg>
+		<empty_weight_kg>25640</empty_weight_kg>
+		<range_km>3340</range_km>
+		<engine>4 X BAe 146: Lycoming ALF 502R-5, Avro RJ: Honey</engine>
+		<cruise_speed_kmph>890</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/BAe_146-300_RJ100.jpg</imgThumb>
+	</Avion>
+	<Avion id="35">
+		<Plane>707-120B</Plane>
+		<passenger_capacity>174</passenger_capacity>
+		<fuel_capacity_litres>65601</fuel_capacity_litres>
+		<max_takeoff_weight_kg>117000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>77100</max_landing_weight_kg>
+		<empty_weight_kg>57600</empty_weight_kg>
+		<range_km>6700</range_km>
+		<engine>Pratt &amp; Whitney JT3D-3</engine>
+		<cruise_speed_kmph>1000</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/707-120B.jpg</imgThumb>
+	</Avion>
+	<Avion id="36">
+		<Plane>707-420</Plane>
+		<passenger_capacity>189</passenger_capacity>
+		<fuel_capacity_litres>90169</fuel_capacity_litres>
+		<max_takeoff_weight_kg>141700</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>64600</empty_weight_kg>
+		<range_km>6940</range_km>
+		<engine>Rolls Royce Conway-12</engine>
+		<cruise_speed_kmph>974</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/707-420.jpg</imgThumb>
+	</Avion>
+	<Avion id="37">
+		<Plane>707-320B</Plane>
+		<passenger_capacity>189</passenger_capacity>
+		<fuel_capacity_litres>90301</fuel_capacity_litres>
+		<max_takeoff_weight_kg>151500</max_takeoff_weight_kg>
+		<max_landing_weight_kg>88500</max_landing_weight_kg>
+		<empty_weight_kg>67500</empty_weight_kg>
+		<range_km>9300</range_km>
+		<engine>Pratt &amp; Whitney JT3D</engine>
+		<cruise_speed_kmph>974</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/707-320B.jpg</imgThumb>
+	</Avion>
+	<Avion id="38">
+		<Plane>707-320C</Plane>
+		<passenger_capacity>195</passenger_capacity>
+		<fuel_capacity_litres>90301</fuel_capacity_litres>
+		<max_takeoff_weight_kg>151500</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>67300</empty_weight_kg>
+		<range_km>5400</range_km>
+		<engine>Pratt &amp; Whitney JT3D</engine>
+		<cruise_speed_kmph>974</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/707-320C.jpg</imgThumb>
+	</Avion>
+	<Avion id="39">
+		<Plane>717-200</Plane>
+		<passenger_capacity>134</passenger_capacity>
+		<fuel_capacity_litres>13903</fuel_capacity_litres>
+		<max_takeoff_weight_kg>49900</max_takeoff_weight_kg>
+		<max_landing_weight_kg>46266</max_landing_weight_kg>
+		<empty_weight_kg>30617</empty_weight_kg>
+		<range_km>2645</range_km>
+		<engine>2 X Rolls Royce BR715-A1-30</engine>
+		<cruise_speed_kmph>811</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/717-200.jpg</imgThumb>
+	</Avion>
+	<Avion id="40">
+		<Plane>717</Plane>
+		<passenger_capacity>134</passenger_capacity>
+		<fuel_capacity_litres>16665</fuel_capacity_litres>
+		<max_takeoff_weight_kg>54900</max_takeoff_weight_kg>
+		<max_landing_weight_kg>46266</max_landing_weight_kg>
+		<empty_weight_kg>30617</empty_weight_kg>
+		<range_km>3815</range_km>
+		<engine>2 X Rolls Royce BR715-C1-30</engine>
+		<cruise_speed_kmph>811</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/717.jpg</imgThumb>
+	</Avion>
+	<Avion id="41">
+		<Plane>727 100</Plane>
+		<passenger_capacity>131</passenger_capacity>
+		<fuel_capacity_litres>29069</fuel_capacity_litres>
+		<max_takeoff_weight_kg>77000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>62400</max_landing_weight_kg>
+		<empty_weight_kg>36560</empty_weight_kg>
+		<range_km>4300</range_km>
+		<engine>3 X Pratt &amp; Whitney JT8D-1</engine>
+		<cruise_speed_kmph>930</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/727_100.jpg</imgThumb>
+	</Avion>
+	<Avion id="42">
+		<Plane>727 200</Plane>
+		<passenger_capacity>189</passenger_capacity>
+		<fuel_capacity_litres>30620</fuel_capacity_litres>
+		<max_takeoff_weight_kg>83800</max_takeoff_weight_kg>
+		<max_landing_weight_kg>79150</max_landing_weight_kg>
+		<empty_weight_kg>44600</empty_weight_kg>
+		<range_km>3100</range_km>
+		<engine>3 X Pratt &amp; Whitney JT8D-9</engine>
+		<cruise_speed_kmph>960</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/727_200.jpg</imgThumb>
+	</Avion>
+	<Avion id="43">
+		<Plane>727 200 Advanced</Plane>
+		<passenger_capacity>189</passenger_capacity>
+		<fuel_capacity_litres>40060</fuel_capacity_litres>
+		<max_takeoff_weight_kg>95000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>79150</max_landing_weight_kg>
+		<empty_weight_kg>46700</empty_weight_kg>
+		<range_km>3500</range_km>
+		<engine>3 X Pratt &amp; Whitney JT8D-17R</engine>
+		<cruise_speed_kmph>960</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/727_200_Advanced.jpg</imgThumb>
+	</Avion>
+	<Avion id="44">
+		<Plane>737 100</Plane>
+		<passenger_capacity>124</passenger_capacity>
+		<fuel_capacity_litres>17865</fuel_capacity_litres>
+		<max_takeoff_weight_kg>44225</max_takeoff_weight_kg>
+		<max_landing_weight_kg>40687</max_landing_weight_kg>
+		<empty_weight_kg>38555</empty_weight_kg>
+		<range_km>3185</range_km>
+		<engine />
+		<cruise_speed_kmph>901</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_100.jpg</imgThumb>
+	</Avion>
+	<Avion id="45">
+		<Plane>737 200ADV</Plane>
+		<passenger_capacity>136</passenger_capacity>
+		<fuel_capacity_litres>19532</fuel_capacity_litres>
+		<max_takeoff_weight_kg>52390</max_takeoff_weight_kg>
+		<max_landing_weight_kg>46720</max_landing_weight_kg>
+		<empty_weight_kg>43091</empty_weight_kg>
+		<range_km>4899</range_km>
+		<engine>P&amp;W JT8D-15A</engine>
+		<cruise_speed_kmph>901</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_200ADV.jpg</imgThumb>
+	</Avion>
+	<Avion id="46">
+		<Plane>737 300</Plane>
+		<passenger_capacity>149</passenger_capacity>
+		<fuel_capacity_litres>20105</fuel_capacity_litres>
+		<max_takeoff_weight_kg>56472</max_takeoff_weight_kg>
+		<max_landing_weight_kg>51710</max_landing_weight_kg>
+		<empty_weight_kg>47625</empty_weight_kg>
+		<range_km>5463</range_km>
+		<engine>CFMI CFM56-3B1/3B2</engine>
+		<cruise_speed_kmph>920</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_300.jpg</imgThumb>
+	</Avion>
+	<Avion id="47">
+		<Plane>737 400</Plane>
+		<passenger_capacity>188</passenger_capacity>
+		<fuel_capacity_litres>20105</fuel_capacity_litres>
+		<max_takeoff_weight_kg>62822</max_takeoff_weight_kg>
+		<max_landing_weight_kg>54885</max_landing_weight_kg>
+		<empty_weight_kg>51256</empty_weight_kg>
+		<range_km>5186</range_km>
+		<engine>CFMI CFM56-3B2/3C1</engine>
+		<cruise_speed_kmph>920</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_400.jpg</imgThumb>
+	</Avion>
+	<Avion id="48">
+		<Plane>737 500</Plane>
+		<passenger_capacity>140</passenger_capacity>
+		<fuel_capacity_litres>20105</fuel_capacity_litres>
+		<max_takeoff_weight_kg>62823</max_takeoff_weight_kg>
+		<max_landing_weight_kg>49895</max_landing_weight_kg>
+		<empty_weight_kg>46720</empty_weight_kg>
+		<range_km>5463</range_km>
+		<engine>CFMI CFM56-3B1/3B2</engine>
+		<cruise_speed_kmph>920</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_500.jpg</imgThumb>
+	</Avion>
+	<Avion id="49">
+		<Plane>737 600</Plane>
+		<passenger_capacity>149</passenger_capacity>
+		<fuel_capacity_litres>26035</fuel_capacity_litres>
+		<max_takeoff_weight_kg>65090</max_takeoff_weight_kg>
+		<max_landing_weight_kg>54657</max_landing_weight_kg>
+		<empty_weight_kg>51709</empty_weight_kg>
+		<range_km>8334</range_km>
+		<engine>CFMI CFM56-7B18</engine>
+		<cruise_speed_kmph>839</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_600.jpg</imgThumb>
+	</Avion>
+	<Avion id="50">
+		<Plane>737 700</Plane>
+		<passenger_capacity>149</passenger_capacity>
+		<fuel_capacity_litres>26035</fuel_capacity_litres>
+		<max_takeoff_weight_kg>70080</max_takeoff_weight_kg>
+		<max_landing_weight_kg>58604</max_landing_weight_kg>
+		<empty_weight_kg>55202</empty_weight_kg>
+		<range_km>8149</range_km>
+		<engine>CFMI CFM56-7B20</engine>
+		<cruise_speed_kmph>839</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_700.jpg</imgThumb>
+	</Avion>
+	<Avion id="51">
+		<Plane>737 800</Plane>
+		<passenger_capacity>189</passenger_capacity>
+		<fuel_capacity_litres>26035</fuel_capacity_litres>
+		<max_takeoff_weight_kg>79002</max_takeoff_weight_kg>
+		<max_landing_weight_kg>66349</max_landing_weight_kg>
+		<empty_weight_kg>62721</empty_weight_kg>
+		<range_km>7408</range_km>
+		<engine>CFMI CFM56-7B24</engine>
+		<cruise_speed_kmph>839</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_800.jpg</imgThumb>
+	</Avion>
+	<Avion id="52">
+		<Plane>737 900</Plane>
+		<passenger_capacity>215</passenger_capacity>
+		<fuel_capacity_litres>26035</fuel_capacity_litres>
+		<max_takeoff_weight_kg>79002</max_takeoff_weight_kg>
+		<max_landing_weight_kg>66349</max_landing_weight_kg>
+		<empty_weight_kg>63628</empty_weight_kg>
+		<range_km>5926</range_km>
+		<engine>CFMI CFM56-7B26</engine>
+		<cruise_speed_kmph>839</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_900.jpg</imgThumb>
+	</Avion>
+	<Avion id="53">
+		<Plane>737 MAX 7</Plane>
+		<passenger_capacity>149</passenger_capacity>
+		<fuel_capacity_litres>26035</fuel_capacity_litres>
+		<max_takeoff_weight_kg>80286</max_takeoff_weight_kg>
+		<max_landing_weight_kg>66043</max_landing_weight_kg>
+		<empty_weight_kg>62913</empty_weight_kg>
+		<range_km>7130</range_km>
+		<engine>2x CFM International LEAP-1B</engine>
+		<cruise_speed_kmph>839</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_MAX_7.jpg</imgThumb>
+	</Avion>
+	<Avion id="54">
+		<Plane>737 MAX 8</Plane>
+		<passenger_capacity>189</passenger_capacity>
+		<fuel_capacity_litres>26035</fuel_capacity_litres>
+		<max_takeoff_weight_kg>82190</max_takeoff_weight_kg>
+		<max_landing_weight_kg>69309</max_landing_weight_kg>
+		<empty_weight_kg>65952</empty_weight_kg>
+		<range_km>6570</range_km>
+		<engine>2x CFM International LEAP-1B</engine>
+		<cruise_speed_kmph>839</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_MAX_8.jpg</imgThumb>
+	</Avion>
+	<Avion id="55">
+		<Plane>737 MAX 200</Plane>
+		<passenger_capacity>200</passenger_capacity>
+		<fuel_capacity_litres>26035</fuel_capacity_litres>
+		<max_takeoff_weight_kg>82191</max_takeoff_weight_kg>
+		<max_landing_weight_kg>69309</max_landing_weight_kg>
+		<empty_weight_kg>65952</empty_weight_kg>
+		<range_km>6570</range_km>
+		<engine>2x CFM International LEAP-1B</engine>
+		<cruise_speed_kmph>839</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_MAX_200.jpg</imgThumb>
+	</Avion>
+	<Avion id="56">
+		<Plane>737 MAX 9</Plane>
+		<passenger_capacity>220</passenger_capacity>
+		<fuel_capacity_litres>26035</fuel_capacity_litres>
+		<max_takeoff_weight_kg>88314</max_takeoff_weight_kg>
+		<max_landing_weight_kg>74344</max_landing_weight_kg>
+		<empty_weight_kg>70987</empty_weight_kg>
+		<range_km>6570</range_km>
+		<engine>2x CFM International LEAP-1B</engine>
+		<cruise_speed_kmph>839</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_MAX_9.jpg</imgThumb>
+	</Avion>
+	<Avion id="57">
+		<Plane>737 MAX 10</Plane>
+		<passenger_capacity>244</passenger_capacity>
+		<fuel_capacity_litres>26035</fuel_capacity_litres>
+		<max_takeoff_weight_kg>0</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>0</empty_weight_kg>
+		<range_km>6110</range_km>
+		<engine>2x CFM International LEAP-1B</engine>
+		<cruise_speed_kmph>839</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/737_MAX_10.jpg</imgThumb>
+	</Avion>
+	<Avion id="58">
+		<Plane>747 100</Plane>
+		<passenger_capacity>452</passenger_capacity>
+		<fuel_capacity_litres>183380</fuel_capacity_litres>
+		<max_takeoff_weight_kg>333400</max_takeoff_weight_kg>
+		<max_landing_weight_kg>265350</max_landing_weight_kg>
+		<empty_weight_kg>238816</empty_weight_kg>
+		<range_km>9800</range_km>
+		<engine>4x Pratt &amp; Whitney JT9D-7 or Rolls-Royce RB211-5</engine>
+		<cruise_speed_kmph>895</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/747_100.jpg</imgThumb>
+	</Avion>
+	<Avion id="59">
+		<Plane>747 SP</Plane>
+		<passenger_capacity>331</passenger_capacity>
+		<fuel_capacity_litres>178000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>304000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>215465</max_landing_weight_kg>
+		<empty_weight_kg>192776</empty_weight_kg>
+		<range_km>12320</range_km>
+		<engine>4x Pratt &amp; Whitney JT9D</engine>
+		<cruise_speed_kmph>990</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/747_SP.jpg</imgThumb>
+	</Avion>
+	<Avion id="60">
+		<Plane>747 200</Plane>
+		<passenger_capacity>452</passenger_capacity>
+		<fuel_capacity_litres>199158</fuel_capacity_litres>
+		<max_takeoff_weight_kg>374850</max_takeoff_weight_kg>
+		<max_landing_weight_kg>285762</max_landing_weight_kg>
+		<empty_weight_kg>247207</empty_weight_kg>
+		<range_km>12700</range_km>
+		<engine>4x Pratt &amp; Whitney JT9D-7R4G2</engine>
+		<cruise_speed_kmph>895</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/747_200.jpg</imgThumb>
+	</Avion>
+	<Avion id="61">
+		<Plane>747 300</Plane>
+		<passenger_capacity>496</passenger_capacity>
+		<fuel_capacity_litres>199158</fuel_capacity_litres>
+		<max_takeoff_weight_kg>374850</max_takeoff_weight_kg>
+		<max_landing_weight_kg>285762</max_landing_weight_kg>
+		<empty_weight_kg>247207</empty_weight_kg>
+		<range_km>12400</range_km>
+		<engine>4x Pratt &amp; Whitney JT9D-7 / Rolls-Royce RB211-52</engine>
+		<cruise_speed_kmph>910</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/747_300.jpg</imgThumb>
+	</Avion>
+	<Avion id="62">
+		<Plane>747 400</Plane>
+		<passenger_capacity>524</passenger_capacity>
+		<fuel_capacity_litres>216840</fuel_capacity_litres>
+		<max_takeoff_weight_kg>396890</max_takeoff_weight_kg>
+		<max_landing_weight_kg>285762</max_landing_weight_kg>
+		<empty_weight_kg>246754</empty_weight_kg>
+		<range_km>13450</range_km>
+		<engine>4x P&amp;W4000 / GE CF6 / RR RB211</engine>
+		<cruise_speed_kmph>910</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/747_400.jpg</imgThumb>
+	</Avion>
+	<Avion id="63">
+		<Plane>747 8i</Plane>
+		<passenger_capacity>605</passenger_capacity>
+		<fuel_capacity_litres>238610</fuel_capacity_litres>
+		<max_takeoff_weight_kg>447696</max_takeoff_weight_kg>
+		<max_landing_weight_kg>312000</max_landing_weight_kg>
+		<empty_weight_kg>220128</empty_weight_kg>
+		<range_km>14430</range_km>
+		<engine>GEnx-2B67</engine>
+		<cruise_speed_kmph>917</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/747_8i.jpg</imgThumb>
+	</Avion>
+	<Avion id="64">
+		<Plane>747 8f</Plane>
+		<passenger_capacity>2</passenger_capacity>
+		<fuel_capacity_litres>226095</fuel_capacity_litres>
+		<max_takeoff_weight_kg>447696</max_takeoff_weight_kg>
+		<max_landing_weight_kg>343000</max_landing_weight_kg>
+		<empty_weight_kg>197131</empty_weight_kg>
+		<range_km>7630</range_km>
+		<engine>GEnx-2B67</engine>
+		<cruise_speed_kmph>908</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/747_8f.jpg</imgThumb>
+	</Avion>
+	<Avion id="65">
+		<Plane>757 200</Plane>
+		<passenger_capacity>239</passenger_capacity>
+		<fuel_capacity_litres>43490</fuel_capacity_litres>
+		<max_takeoff_weight_kg>99800</max_takeoff_weight_kg>
+		<max_landing_weight_kg>89800</max_landing_weight_kg>
+		<empty_weight_kg>57840</empty_weight_kg>
+		<range_km>7251</range_km>
+		<engine>2x Pratt &amp; Whitney PW2037</engine>
+		<cruise_speed_kmph>850</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/757_200.jpg</imgThumb>
+	</Avion>
+	<Avion id="66">
+		<Plane>757 200PF</Plane>
+		<passenger_capacity>2</passenger_capacity>
+		<fuel_capacity_litres>42680</fuel_capacity_litres>
+		<max_takeoff_weight_kg>150593</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>57840</empty_weight_kg>
+		<range_km>5834</range_km>
+		<engine>Rolls-Royce (RB211-535E4B) and Pratt &amp; Whitney (</engine>
+		<cruise_speed_kmph>850</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/757_200PF.jpg</imgThumb>
+	</Avion>
+	<Avion id="67">
+		<Plane>757 300</Plane>
+		<passenger_capacity>295</passenger_capacity>
+		<fuel_capacity_litres>43400</fuel_capacity_litres>
+		<max_takeoff_weight_kg>123830</max_takeoff_weight_kg>
+		<max_landing_weight_kg>101610</max_landing_weight_kg>
+		<empty_weight_kg>64590</empty_weight_kg>
+		<range_km>6287</range_km>
+		<engine>2x Rolls-Royce RB211-535E4/B, Pratt &amp; Whitney PW</engine>
+		<cruise_speed_kmph>850</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/757_300.jpg</imgThumb>
+	</Avion>
+	<Avion id="68">
+		<Plane>767 200</Plane>
+		<passenger_capacity>290</passenger_capacity>
+		<fuel_capacity_litres>63000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>142880</max_takeoff_weight_kg>
+		<max_landing_weight_kg>123377</max_landing_weight_kg>
+		<empty_weight_kg>80130</empty_weight_kg>
+		<range_km>7130</range_km>
+		<engine>2x General Electric CF6-80C2, Pratt &amp; Whitney JT</engine>
+		<cruise_speed_kmph>913</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/767_200.jpg</imgThumb>
+	</Avion>
+	<Avion id="69">
+		<Plane>767 200ER</Plane>
+		<passenger_capacity>290</passenger_capacity>
+		<fuel_capacity_litres>91400</fuel_capacity_litres>
+		<max_takeoff_weight_kg>179170</max_takeoff_weight_kg>
+		<max_landing_weight_kg>134078</max_landing_weight_kg>
+		<empty_weight_kg>82380</empty_weight_kg>
+		<range_km>11825</range_km>
+		<engine>Pratt &amp; Whitney JT9D-7R4D</engine>
+		<cruise_speed_kmph>913</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/767_200_ER.jpg</imgThumb>
+	</Avion>
+	<Avion id="70">
+		<Plane>767 300</Plane>
+		<passenger_capacity>351</passenger_capacity>
+		<fuel_capacity_litres>63000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>158758</max_takeoff_weight_kg>
+		<max_landing_weight_kg>136078</max_landing_weight_kg>
+		<empty_weight_kg>86070</empty_weight_kg>
+		<range_km>7890</range_km>
+		<engine>2x Rolls Royce RB211-524H or General Electric CF</engine>
+		<cruise_speed_kmph>913</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/767_300.jpg</imgThumb>
+	</Avion>
+	<Avion id="71">
+		<Plane>767 300ER</Plane>
+		<passenger_capacity>351</passenger_capacity>
+		<fuel_capacity_litres>91400</fuel_capacity_litres>
+		<max_takeoff_weight_kg>186880</max_takeoff_weight_kg>
+		<max_landing_weight_kg>145150</max_landing_weight_kg>
+		<empty_weight_kg>90010</empty_weight_kg>
+		<range_km>11090</range_km>
+		<engine>Pratt &amp; Whitney PW4062</engine>
+		<cruise_speed_kmph>913</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/767_300_ER.jpg</imgThumb>
+	</Avion>
+	<Avion id="72">
+		<Plane>767 300F</Plane>
+		<passenger_capacity>2</passenger_capacity>
+		<fuel_capacity_litres>91000</fuel_capacity_litres>
+		<max_takeoff_weight_kg>186880</max_takeoff_weight_kg>
+		<max_landing_weight_kg>147871</max_landing_weight_kg>
+		<empty_weight_kg>86180</empty_weight_kg>
+		<range_km>6028</range_km>
+		<engine>2x Rolls Royce RB211-524H/Pratt and Whitney PW40</engine>
+		<cruise_speed_kmph>913</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/767_300F.jpg</imgThumb>
+	</Avion>
+	<Avion id="73">
+		<Plane>767 400ER</Plane>
+		<passenger_capacity>375</passenger_capacity>
+		<fuel_capacity_litres>91400</fuel_capacity_litres>
+		<max_takeoff_weight_kg>204120</max_takeoff_weight_kg>
+		<max_landing_weight_kg>158757</max_landing_weight_kg>
+		<empty_weight_kg>103870</empty_weight_kg>
+		<range_km>10418</range_km>
+		<engine>2x Pratt and Whitney PW4000-94 or General Electr</engine>
+		<cruise_speed_kmph>913</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/767_400ER.jpg</imgThumb>
+	</Avion>
+	<Avion id="74">
+		<Plane>777 200</Plane>
+		<passenger_capacity>440</passenger_capacity>
+		<fuel_capacity_litres>117348</fuel_capacity_litres>
+		<max_takeoff_weight_kg>247200</max_takeoff_weight_kg>
+		<max_landing_weight_kg>201840</max_landing_weight_kg>
+		<empty_weight_kg>134800</empty_weight_kg>
+		<range_km>9700</range_km>
+		<engine>2x Pratt and Whitney PW 4090 or Rolls-Royce Tren</engine>
+		<cruise_speed_kmph>950</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/777_200.jpg</imgThumb>
+	</Avion>
+	<Avion id="76">
+		<Plane>777 200ER</Plane>
+		<passenger_capacity>440</passenger_capacity>
+		<fuel_capacity_litres>171176</fuel_capacity_litres>
+		<max_takeoff_weight_kg>297550</max_takeoff_weight_kg>
+		<max_landing_weight_kg>213180</max_landing_weight_kg>
+		<empty_weight_kg>138100</empty_weight_kg>
+		<range_km>13080</range_km>
+		<engine>2x Pratt and Whitney PW 4090 or Rolls-Royce Tren</engine>
+		<cruise_speed_kmph>950</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/777_200ER.jpg</imgThumb>
+	</Avion>
+	<Avion id="77">
+		<Plane>777 200LR</Plane>
+		<passenger_capacity>440</passenger_capacity>
+		<fuel_capacity_litres>181283</fuel_capacity_litres>
+		<max_takeoff_weight_kg>347500</max_takeoff_weight_kg>
+		<max_landing_weight_kg>223168</max_landing_weight_kg>
+		<empty_weight_kg>145150</empty_weight_kg>
+		<range_km>15843</range_km>
+		<engine>2x General Electric GE90-115B</engine>
+		<cruise_speed_kmph>950</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/777_200_LR.jpg</imgThumb>
+	</Avion>
+	<Avion id="78">
+		<Plane>777 300</Plane>
+		<passenger_capacity>550</passenger_capacity>
+		<fuel_capacity_litres>171176</fuel_capacity_litres>
+		<max_takeoff_weight_kg>299370</max_takeoff_weight_kg>
+		<max_landing_weight_kg>237680</max_landing_weight_kg>
+		<empty_weight_kg>160500</empty_weight_kg>
+		<range_km>11120</range_km>
+		<engine>2x Rolls Royce RR-892 or Pratt &amp; Whitney 4098 or</engine>
+		<cruise_speed_kmph>950</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/777_300.jpg</imgThumb>
+	</Avion>
+	<Avion id="79">
+		<Plane>777 300ER</Plane>
+		<passenger_capacity>550</passenger_capacity>
+		<fuel_capacity_litres>181283</fuel_capacity_litres>
+		<max_takeoff_weight_kg>351500</max_takeoff_weight_kg>
+		<max_landing_weight_kg>251290</max_landing_weight_kg>
+		<empty_weight_kg>167800</empty_weight_kg>
+		<range_km>13649</range_km>
+		<engine>2x General Electric GE90-115B</engine>
+		<cruise_speed_kmph>950</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/777_300ER.jpg</imgThumb>
+	</Avion>
+	<Avion id="80">
+		<Plane>777 8</Plane>
+		<passenger_capacity>384</passenger_capacity>
+		<fuel_capacity_litres>237761</fuel_capacity_litres>
+		<max_takeoff_weight_kg>351500</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>0</empty_weight_kg>
+		<range_km>16170</range_km>
+		<engine>2x General Electric GE9X-105B1A</engine>
+		<cruise_speed_kmph>900</cruise_speed_kmph>
+		<imgThumb />
+	</Avion>
+	<Avion id="81">
+		<Plane>777 9</Plane>
+		<passenger_capacity>414</passenger_capacity>
+		<fuel_capacity_litres>237761</fuel_capacity_litres>
+		<max_takeoff_weight_kg>351550</max_takeoff_weight_kg>
+		<max_landing_weight_kg>266000</max_landing_weight_kg>
+		<empty_weight_kg>255000</empty_weight_kg>
+		<range_km>13500</range_km>
+		<engine>2x General Electric GE9X</engine>
+		<cruise_speed_kmph>850</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/777_9.jpg</imgThumb>
+	</Avion>
+	<Avion id="82">
+		<Plane>777 Freighter</Plane>
+		<passenger_capacity>2</passenger_capacity>
+		<fuel_capacity_litres>181283</fuel_capacity_litres>
+		<max_takeoff_weight_kg>347815</max_takeoff_weight_kg>
+		<max_landing_weight_kg>260816</max_landing_weight_kg>
+		<empty_weight_kg>144400</empty_weight_kg>
+		<range_km>9070</range_km>
+		<engine>2x General Electric GE90-110B or GE90-115B</engine>
+		<cruise_speed_kmph>950</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/777_Freighter.jpg</imgThumb>
+	</Avion>
+	<Avion id="83">
+		<Plane>787 8</Plane>
+		<passenger_capacity>242</passenger_capacity>
+		<fuel_capacity_litres>126206</fuel_capacity_litres>
+		<max_takeoff_weight_kg>227930</max_takeoff_weight_kg>
+		<max_landing_weight_kg>172000</max_landing_weight_kg>
+		<empty_weight_kg>119950</empty_weight_kg>
+		<range_km>13620</range_km>
+		<engine>2x General Electric GEnx-1B or Rolls-Royce Trent</engine>
+		<cruise_speed_kmph>903</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/787_8.jpg</imgThumb>
+	</Avion>
+	<Avion id="84">
+		<Plane>787 9</Plane>
+		<passenger_capacity>280</passenger_capacity>
+		<fuel_capacity_litres>126372</fuel_capacity_litres>
+		<max_takeoff_weight_kg>254011</max_takeoff_weight_kg>
+		<max_landing_weight_kg>193000</max_landing_weight_kg>
+		<empty_weight_kg>128850</empty_weight_kg>
+		<range_km>14140</range_km>
+		<engine>2x General Electric GEnx-1B or Rolls-Royce Trent</engine>
+		<cruise_speed_kmph>903</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/787_9.jpg</imgThumb>
+	</Avion>
+	<Avion id="85">
+		<Plane>787 10</Plane>
+		<passenger_capacity>330</passenger_capacity>
+		<fuel_capacity_litres>126372</fuel_capacity_litres>
+		<max_takeoff_weight_kg>254011</max_takeoff_weight_kg>
+		<max_landing_weight_kg>202000</max_landing_weight_kg>
+		<empty_weight_kg>135500</empty_weight_kg>
+		<range_km>11910</range_km>
+		<engine>2x General Electric GEnx-1B or Rolls-Royce Trent</engine>
+		<cruise_speed_kmph>903</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/787_10.jpg</imgThumb>
+	</Avion>
+	<Avion id="86">
+		<Plane>797 NMA 6x</Plane>
+		<passenger_capacity>228</passenger_capacity>
+		<fuel_capacity_litres>41640</fuel_capacity_litres>
+		<max_takeoff_weight_kg />
+		<max_landing_weight_kg />
+		<empty_weight_kg />
+		<range_km>9300</range_km>
+		<engine />
+		<cruise_speed_kmph />
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/797_NMA_6x.jpg</imgThumb>
+	</Avion>
+	<Avion id="87">
+		<Plane>797 NMA 7x</Plane>
+		<passenger_capacity>267</passenger_capacity>
+		<fuel_capacity_litres>41640</fuel_capacity_litres>
+		<max_takeoff_weight_kg />
+		<max_landing_weight_kg />
+		<empty_weight_kg />
+		<range_km>7800</range_km>
+		<engine />
+		<cruise_speed_kmph />
+		<imgThumb />
+	</Avion>
+	<Avion id="88">
+		<Plane>CRJ 700</Plane>
+		<passenger_capacity>78</passenger_capacity>
+		<fuel_capacity_litres>11728</fuel_capacity_litres>
+		<max_takeoff_weight_kg>34019</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>20069</empty_weight_kg>
+		<range_km>2553</range_km>
+		<engine>2 X General Electric CF34-8C5 turbofans</engine>
+		<cruise_speed_kmph>829</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/CRJ_700.jpg</imgThumb>
+	</Avion>
+	<Avion id="89">
+		<Plane>CRJ 900</Plane>
+		<passenger_capacity>90</passenger_capacity>
+		<fuel_capacity_litres>11728</fuel_capacity_litres>
+		<max_takeoff_weight_kg>38330</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>21845</empty_weight_kg>
+		<range_km>2876</range_km>
+		<engine>2 X General Electric CF34-8C5 turbofans</engine>
+		<cruise_speed_kmph>829</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/CRJ_900.jpg</imgThumb>
+	</Avion>
+	<Avion id="90">
+		<Plane>CRJ 1000</Plane>
+		<passenger_capacity>104</passenger_capacity>
+		<fuel_capacity_litres>11728</fuel_capacity_litres>
+		<max_takeoff_weight_kg>41640</max_takeoff_weight_kg>
+		<max_landing_weight_kg>36968</max_landing_weight_kg>
+		<empty_weight_kg>23188</empty_weight_kg>
+		<range_km>3004</range_km>
+		<engine>2x 2 X General Electric GE CF34-8C5A1</engine>
+		<cruise_speed_kmph>829</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/CRJ_1000.jpg</imgThumb>
+	</Avion>
+	<Avion id="91">
+		<Plane>Dash 8-100</Plane>
+		<passenger_capacity>37</passenger_capacity>
+		<fuel_capacity_litres>3210</fuel_capacity_litres>
+		<max_takeoff_weight_kg>16470</max_takeoff_weight_kg>
+		<max_landing_weight_kg>15650</max_landing_weight_kg>
+		<empty_weight_kg>10483</empty_weight_kg>
+		<range_km>1889</range_km>
+		<engine>Pratt &amp; Whitney Canada PW120</engine>
+		<cruise_speed_kmph>500</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/Dash_8-100.jpg</imgThumb>
+	</Avion>
+	<Avion id="92">
+		<Plane>Dash 8-200</Plane>
+		<passenger_capacity>37</passenger_capacity>
+		<fuel_capacity_litres>3210</fuel_capacity_litres>
+		<max_takeoff_weight_kg>16470</max_takeoff_weight_kg>
+		<max_landing_weight_kg>15650</max_landing_weight_kg>
+		<empty_weight_kg>10483</empty_weight_kg>
+		<range_km>1713</range_km>
+		<engine>2x Pratt &amp; Whitney Canada PW123</engine>
+		<cruise_speed_kmph>537</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/Dash_8-200.jpg</imgThumb>
+	</Avion>
+	<Avion id="93">
+		<Plane>Dash 8-300</Plane>
+		<passenger_capacity>50</passenger_capacity>
+		<fuel_capacity_litres>3210</fuel_capacity_litres>
+		<max_takeoff_weight_kg>19500</max_takeoff_weight_kg>
+		<max_landing_weight_kg>19050</max_landing_weight_kg>
+		<empty_weight_kg>11791</empty_weight_kg>
+		<range_km>2034</range_km>
+		<engine>2x Pratt &amp; Whitney Canada PW123B</engine>
+		<cruise_speed_kmph>528</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/Dash_8-300.jpg</imgThumb>
+	</Avion>
+	<Avion id="94">
+		<Plane>Dash 8-400</Plane>
+		<passenger_capacity>78</passenger_capacity>
+		<fuel_capacity_litres>6616</fuel_capacity_litres>
+		<max_takeoff_weight_kg>29260</max_takeoff_weight_kg>
+		<max_landing_weight_kg>28010</max_landing_weight_kg>
+		<empty_weight_kg>17185</empty_weight_kg>
+		<range_km>2522</range_km>
+		<engine>2x Pratt &amp; Whitney Canada PW150A</engine>
+		<cruise_speed_kmph>667</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/Dash_8-400.jpg</imgThumb>
+	</Avion>
+	<Avion id="95">
+		<Plane>C919 Mixed Class</Plane>
+		<passenger_capacity>158</passenger_capacity>
+		<fuel_capacity_litres>24364</fuel_capacity_litres>
+		<max_takeoff_weight_kg>77300</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>42100</empty_weight_kg>
+		<range_km>5555</range_km>
+		<engine>2x CFM International LEAP-1C</engine>
+		<cruise_speed_kmph>969</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/C919_Mixed_Class.jpg</imgThumb>
+	</Avion>
+	<Avion id="96">
+		<Plane>C919 All Economy</Plane>
+		<passenger_capacity>168</passenger_capacity>
+		<fuel_capacity_litres>24364</fuel_capacity_litres>
+		<max_takeoff_weight_kg>77300</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>42100</empty_weight_kg>
+		<range_km>5555</range_km>
+		<engine>2x CFM International LEAP-1C</engine>
+		<cruise_speed_kmph>969</cruise_speed_kmph>
+		<imgThumb />
+	</Avion>
+	<Avion id="97">
+		<Plane>C919 High Density</Plane>
+		<passenger_capacity>174</passenger_capacity>
+		<fuel_capacity_litres>24364</fuel_capacity_litres>
+		<max_takeoff_weight_kg>77300</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>42100</empty_weight_kg>
+		<range_km>5555</range_km>
+		<engine>2x CFM International LEAP-1C</engine>
+		<cruise_speed_kmph>969</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/C919_High_Density.jpg</imgThumb>
+	</Avion>
+	<Avion id="98">
+		<Plane>Tupolev Tu-144 (Super Sonic Transport)</Plane>
+		<passenger_capacity>120</passenger_capacity>
+		<fuel_capacity_litres>95680</fuel_capacity_litres>
+		<max_takeoff_weight_kg>207000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>180000</max_landing_weight_kg>
+		<empty_weight_kg>78700</empty_weight_kg>
+		<range_km>7223</range_km>
+		<engine>4 x Rolls-Royce/Snecma Olympus 593 Mark 610 turb</engine>
+		<cruise_speed_kmph>2179</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/Tupolev_Tu-144_Super_Sonic_Transport.jpg</imgThumb>
+	</Avion>
+	<Avion id="99">
+		<Plane>DC 9-10</Plane>
+		<passenger_capacity>109</passenger_capacity>
+		<fuel_capacity_litres>11223</fuel_capacity_litres>
+		<max_takeoff_weight_kg>41141</max_takeoff_weight_kg>
+		<max_landing_weight_kg>37058</max_landing_weight_kg>
+		<empty_weight_kg>22300</empty_weight_kg>
+		<range_km>2400</range_km>
+		<engine>2x Pratt &amp; Whitney JT8D-7</engine>
+		<cruise_speed_kmph>896</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_9-10.jpg</imgThumb>
+	</Avion>
+	<Avion id="100">
+		<Plane>DC 9-20</Plane>
+		<passenger_capacity>109</passenger_capacity>
+		<fuel_capacity_litres>11223</fuel_capacity_litres>
+		<max_takeoff_weight_kg>45359</max_takeoff_weight_kg>
+		<max_landing_weight_kg>43227</max_landing_weight_kg>
+		<empty_weight_kg>23879</empty_weight_kg>
+		<range_km>2800</range_km>
+		<engine>2x JT8D-11</engine>
+		<cruise_speed_kmph>898</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_9-20.jpg</imgThumb>
+	</Avion>
+	<Avion id="101">
+		<Plane>DC 9-30</Plane>
+		<passenger_capacity>127</passenger_capacity>
+		<fuel_capacity_litres>11181</fuel_capacity_litres>
+		<max_takeoff_weight_kg>48988</max_takeoff_weight_kg>
+		<max_landing_weight_kg>44906</max_landing_weight_kg>
+		<empty_weight_kg>25789</empty_weight_kg>
+		<range_km>2800</range_km>
+		<engine>2x JT8D-11</engine>
+		<cruise_speed_kmph>898</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_9-30.jpg</imgThumb>
+	</Avion>
+	<Avion id="102">
+		<Plane>DC 9-40</Plane>
+		<passenger_capacity>128</passenger_capacity>
+		<fuel_capacity_litres>11181</fuel_capacity_litres>
+		<max_takeoff_weight_kg>51710</max_takeoff_weight_kg>
+		<max_landing_weight_kg>46266</max_landing_weight_kg>
+		<empty_weight_kg>27821</empty_weight_kg>
+		<range_km>2200</range_km>
+		<engine>2x JT8D-17</engine>
+		<cruise_speed_kmph>898</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_9-40.jpg</imgThumb>
+	</Avion>
+	<Avion id="103">
+		<Plane>DC 9-50</Plane>
+		<passenger_capacity>139</passenger_capacity>
+		<fuel_capacity_litres>11181</fuel_capacity_litres>
+		<max_takeoff_weight_kg>54885</max_takeoff_weight_kg>
+		<max_landing_weight_kg>49895</max_landing_weight_kg>
+		<empty_weight_kg>29336</empty_weight_kg>
+		<range_km>2400</range_km>
+		<engine>2x Pratt &amp; Whitney JT8D-15A</engine>
+		<cruise_speed_kmph>898</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_9-50.jpg</imgThumb>
+	</Avion>
+	<Avion id="104">
+		<Plane>DC 8-10</Plane>
+		<passenger_capacity>177</passenger_capacity>
+		<fuel_capacity_litres>66245</fuel_capacity_litres>
+		<max_takeoff_weight_kg>123800</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>54300</empty_weight_kg>
+		<range_km>6960</range_km>
+		<engine>4 X Pratt &amp; Whitney JT3D-7 turbofans</engine>
+		<cruise_speed_kmph>895</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_8-10.jpg</imgThumb>
+	</Avion>
+	<Avion id="105">
+		<Plane>DC 8-20</Plane>
+		<passenger_capacity>177</passenger_capacity>
+		<fuel_capacity_litres>66245</fuel_capacity_litres>
+		<max_takeoff_weight_kg>125200</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>56200</empty_weight_kg>
+		<range_km>7500</range_km>
+		<engine>4 X Pratt &amp; Whitney JT4A</engine>
+		<cruise_speed_kmph>895</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_8-20.jpg</imgThumb>
+	</Avion>
+	<Avion id="106">
+		<Plane>DC 8-30</Plane>
+		<passenger_capacity>177</passenger_capacity>
+		<fuel_capacity_litres>88552</fuel_capacity_litres>
+		<max_takeoff_weight_kg>142900</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>57300</empty_weight_kg>
+		<range_km>7417</range_km>
+		<engine>4 X Pratt &amp; Whitney JT4A</engine>
+		<cruise_speed_kmph>895</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_8-30.jpg</imgThumb>
+	</Avion>
+	<Avion id="107">
+		<Plane>DC 8-40</Plane>
+		<passenger_capacity>177</passenger_capacity>
+		<fuel_capacity_litres>88552</fuel_capacity_litres>
+		<max_takeoff_weight_kg>142900</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>56600</empty_weight_kg>
+		<range_km>9830</range_km>
+		<engine>4 X RCo 12</engine>
+		<cruise_speed_kmph>895</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_8-40.jpg</imgThumb>
+	</Avion>
+	<Avion id="108">
+		<Plane>DC 8-50</Plane>
+		<passenger_capacity>189</passenger_capacity>
+		<fuel_capacity_litres>88552</fuel_capacity_litres>
+		<max_takeoff_weight_kg>147420</max_takeoff_weight_kg>
+		<max_landing_weight_kg>98431</max_landing_weight_kg>
+		<empty_weight_kg>62700</empty_weight_kg>
+		<range_km>10843</range_km>
+		<engine>4x JT3D-3B</engine>
+		<cruise_speed_kmph>895</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_8-50.jpg</imgThumb>
+	</Avion>
+	<Avion id="109">
+		<Plane>DC 8-60</Plane>
+		<passenger_capacity>259</passenger_capacity>
+		<fuel_capacity_litres>91891</fuel_capacity_litres>
+		<max_takeoff_weight_kg>161027</max_takeoff_weight_kg>
+		<max_landing_weight_kg>124739</max_landing_weight_kg>
+		<empty_weight_kg>72000</empty_weight_kg>
+		<range_km>7400</range_km>
+		<engine>4x P&amp;W JT3D-3B</engine>
+		<cruise_speed_kmph>895</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_8-60.jpg</imgThumb>
+	</Avion>
+	<Avion id="110">
+		<Plane>DC 8-70</Plane>
+		<passenger_capacity>259</passenger_capacity>
+		<fuel_capacity_litres>91891</fuel_capacity_litres>
+		<max_takeoff_weight_kg>161000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>108864</max_landing_weight_kg>
+		<empty_weight_kg>75400</empty_weight_kg>
+		<range_km>8300</range_km>
+		<engine>4x CFM 56-2 C6</engine>
+		<cruise_speed_kmph>895</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_8-70.jpg</imgThumb>
+	</Avion>
+	<Avion id="111">
+		<Plane>ERJ 170</Plane>
+		<passenger_capacity>80</passenger_capacity>
+		<fuel_capacity_litres>11625</fuel_capacity_litres>
+		<max_takeoff_weight_kg>38600</max_takeoff_weight_kg>
+		<max_landing_weight_kg>33300</max_landing_weight_kg>
+		<empty_weight_kg>21140</empty_weight_kg>
+		<range_km>3892</range_km>
+		<engine>2x 2 X General Electric´s CF34-8E</engine>
+		<cruise_speed_kmph>889</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ERJ_170.jpg</imgThumb>
+	</Avion>
+	<Avion id="112">
+		<Plane>ERJ 175</Plane>
+		<passenger_capacity>88</passenger_capacity>
+		<fuel_capacity_litres>11629</fuel_capacity_litres>
+		<max_takeoff_weight_kg>40370</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>21810</empty_weight_kg>
+		<range_km>4074</range_km>
+		<engine>2x 2 X General Electrics CF34-8E</engine>
+		<cruise_speed_kmph>889</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ERJ_175.jpg</imgThumb>
+	</Avion>
+	<Avion id="113">
+		<Plane>ERJ 190</Plane>
+		<passenger_capacity>114</passenger_capacity>
+		<fuel_capacity_litres>16156</fuel_capacity_litres>
+		<max_takeoff_weight_kg>51800</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>28080</empty_weight_kg>
+		<range_km>4260</range_km>
+		<engine>2 X General Electric CF34-10E</engine>
+		<cruise_speed_kmph>889</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ERJ_190.jpg</imgThumb>
+	</Avion>
+	<Avion id="114">
+		<Plane>ERJ 195</Plane>
+		<passenger_capacity>122</passenger_capacity>
+		<fuel_capacity_litres>16156</fuel_capacity_litres>
+		<max_takeoff_weight_kg>52290</max_takeoff_weight_kg>
+		<max_landing_weight_kg>45800</max_landing_weight_kg>
+		<empty_weight_kg>28970</empty_weight_kg>
+		<range_km>4260</range_km>
+		<engine>2x 2 X General Electric CF34-10E</engine>
+		<cruise_speed_kmph>889</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/ERJ_195.jpg</imgThumb>
+	</Avion>
+	<Avion id="115">
+		<Plane>F28-1000</Plane>
+		<passenger_capacity>65</passenger_capacity>
+		<fuel_capacity_litres>13040</fuel_capacity_litres>
+		<max_takeoff_weight_kg>29480</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>16144</empty_weight_kg>
+		<range_km>1705</range_km>
+		<engine>2 x Rolls-Royce Spey Mk 555-15</engine>
+		<cruise_speed_kmph>848</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/F28-1000.jpg</imgThumb>
+	</Avion>
+	<Avion id="116">
+		<Plane>F28-2000</Plane>
+		<passenger_capacity>79</passenger_capacity>
+		<fuel_capacity_litres>13040</fuel_capacity_litres>
+		<max_takeoff_weight_kg>29480</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>16707</empty_weight_kg>
+		<range_km>1705</range_km>
+		<engine>2 x Rolls-Royce Spey Mk 555-15</engine>
+		<cruise_speed_kmph>848</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/F28-2000.jpg</imgThumb>
+	</Avion>
+	<Avion id="117">
+		<Plane>F28-3000</Plane>
+		<passenger_capacity>65</passenger_capacity>
+		<fuel_capacity_litres>13040</fuel_capacity_litres>
+		<max_takeoff_weight_kg>33110</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>16846</empty_weight_kg>
+		<range_km>2872</range_km>
+		<engine>2 x Rolls-Royce Spey Mk 555-15H</engine>
+		<cruise_speed_kmph>808</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/F28-3000.jpg</imgThumb>
+	</Avion>
+	<Avion id="118">
+		<Plane>F28-4000</Plane>
+		<passenger_capacity>85</passenger_capacity>
+		<fuel_capacity_litres>13040</fuel_capacity_litres>
+		<max_takeoff_weight_kg>33110</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>17611</empty_weight_kg>
+		<range_km>1668</range_km>
+		<engine>2 x Rolls-Royce Spey Mk 555-15H</engine>
+		<cruise_speed_kmph>808</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/F28-4000.jpg</imgThumb>
+	</Avion>
+	<Avion id="119">
+		<Plane>Fokker 70</Plane>
+		<passenger_capacity>85</passenger_capacity>
+		<fuel_capacity_litres>13366</fuel_capacity_litres>
+		<max_takeoff_weight_kg>41730</max_takeoff_weight_kg>
+		<max_landing_weight_kg>36740</max_landing_weight_kg>
+		<empty_weight_kg>22673</empty_weight_kg>
+		<range_km>3410</range_km>
+		<engine>2x 2 x Rolls-Royce TAY 620 turbofans</engine>
+		<cruise_speed_kmph>845</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/Fokker_70.jpg</imgThumb>
+	</Avion>
+	<Avion id="120">
+		<Plane>Fokker 100 Rolls Royce Tay 620</Plane>
+		<passenger_capacity>122</passenger_capacity>
+		<fuel_capacity_litres>13365</fuel_capacity_litres>
+		<max_takeoff_weight_kg>43090</max_takeoff_weight_kg>
+		<max_landing_weight_kg>39915</max_landing_weight_kg>
+		<empty_weight_kg>24375</empty_weight_kg>
+		<range_km>845</range_km>
+		<engine>2x 2 × Rolls-Royce Tay Mk.650 Turbofans</engine>
+		<cruise_speed_kmph>845</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/Fokker_100_Rolls_Royce_Tay_620.jpg</imgThumb>
+	</Avion>
+	<Avion id="121">
+		<Plane>Fokker 100 Rolls Royce Tay 650</Plane>
+		<passenger_capacity>122</passenger_capacity>
+		<fuel_capacity_litres>13365</fuel_capacity_litres>
+		<max_takeoff_weight_kg>45810</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>24541</empty_weight_kg>
+		<range_km>845</range_km>
+		<engine>2x 2 × Rolls-Royce Tay Mk 650-15</engine>
+		<cruise_speed_kmph>845</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/Fokker_100_Rolls_Royce_Tay_650.jpg</imgThumb>
+	</Avion>
+	<Avion id="122">
+		<Plane>Frigate Ecojet – 250</Plane>
+		<passenger_capacity>250</passenger_capacity>
+		<fuel_capacity_litres>0</fuel_capacity_litres>
+		<max_takeoff_weight_kg>128000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>72600</empty_weight_kg>
+		<range_km>4500</range_km>
+		<engine>Russian PD-18 or modified PS-90A20 turbofans</engine>
+		<cruise_speed_kmph>1013</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/FrigateEcojet250.jpg</imgThumb>
+	</Avion>
+	<Avion id="123">
+		<Plane>Frigate Ecojet – 300</Plane>
+		<passenger_capacity>300</passenger_capacity>
+		<fuel_capacity_litres>0</fuel_capacity_litres>
+		<max_takeoff_weight_kg>128000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>72600</empty_weight_kg>
+		<range_km>3500</range_km>
+		<engine>Russian PD-18 or modified PS-90A20 turbofans</engine>
+		<cruise_speed_kmph>1013</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/FrigateEcojet300.jpg</imgThumb>
+	</Avion>
+	<Avion id="124">
+		<Plane>L1011-1</Plane>
+		<passenger_capacity>400</passenger_capacity>
+		<fuel_capacity_litres>90150</fuel_capacity_litres>
+		<max_takeoff_weight_kg>200000</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>110000</empty_weight_kg>
+		<range_km>7871</range_km>
+		<engine>Rolls Royce RB211-22</engine>
+		<cruise_speed_kmph>963</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/L1011-1.jpg</imgThumb>
+	</Avion>
+	<Avion id="125">
+		<Plane>L1011-200</Plane>
+		<passenger_capacity>400</passenger_capacity>
+		<fuel_capacity_litres>100320</fuel_capacity_litres>
+		<max_takeoff_weight_kg>211374</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>113000</empty_weight_kg>
+		<range_km>9140</range_km>
+		<engine>Rolls Royce RB211-524B</engine>
+		<cruise_speed_kmph>954</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/L1011-200.jpg</imgThumb>
+	</Avion>
+	<Avion id="126">
+		<Plane>L-1011-500</Plane>
+		<passenger_capacity>330</passenger_capacity>
+		<fuel_capacity_litres>119780</fuel_capacity_litres>
+		<max_takeoff_weight_kg>231332</max_takeoff_weight_kg>
+		<max_landing_weight_kg>0</max_landing_weight_kg>
+		<empty_weight_kg>111000</empty_weight_kg>
+		<range_km>11279</range_km>
+		<engine>Rolls Royce RB211-524B</engine>
+		<cruise_speed_kmph>972</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/L-1011-500.jpg</imgThumb>
+	</Avion>
+	<Avion id="127">
+		<Plane>DC-10-10</Plane>
+		<passenger_capacity>399</passenger_capacity>
+		<fuel_capacity_litres>82376</fuel_capacity_litres>
+		<max_takeoff_weight_kg>195045</max_takeoff_weight_kg>
+		<max_landing_weight_kg>164881</max_landing_weight_kg>
+		<empty_weight_kg>108940</empty_weight_kg>
+		<range_km>6482</range_km>
+		<engine>3x GE CF6-6D</engine>
+		<cruise_speed_kmph>876</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_10-10.jpg</imgThumb>
+	</Avion>
+	<Avion id="128">
+		<Plane>DC-10-30</Plane>
+		<passenger_capacity>380</passenger_capacity>
+		<fuel_capacity_litres>137509</fuel_capacity_litres>
+		<max_takeoff_weight_kg>251744</max_takeoff_weight_kg>
+		<max_landing_weight_kg>182798</max_landing_weight_kg>
+		<empty_weight_kg>120742</empty_weight_kg>
+		<range_km>9630</range_km>
+		<engine>3x GE CF6-50C</engine>
+		<cruise_speed_kmph>876</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_10-30.jpg</imgThumb>
+	</Avion>
+	<Avion id="129">
+		<Plane>DC-10-40</Plane>
+		<passenger_capacity>399</passenger_capacity>
+		<fuel_capacity_litres>137509</fuel_capacity_litres>
+		<max_takeoff_weight_kg>251744</max_takeoff_weight_kg>
+		<max_landing_weight_kg>182798</max_landing_weight_kg>
+		<empty_weight_kg>122567</empty_weight_kg>
+		<range_km>9445</range_km>
+		<engine>3x Pratt &amp; Whitney JT9D-59A</engine>
+		<cruise_speed_kmph>876</cruise_speed_kmph>
+		<imgThumb>
+			https://s3.us-west-004.backblazeb2.com/encurate/static/airplanes/DC_10-40.jpg</imgThumb>
+	</Avion>
+	<Avion id="11111">
+		<Plane>a</Plane>
+		<passenger_capacity>1</passenger_capacity>
+		<fuel_capacity_litres>1</fuel_capacity_litres>
+		<max_takeoff_weight_kg>1</max_takeoff_weight_kg>
+		<max_landing_weight_kg>1</max_landing_weight_kg>
+		<empty_weight_kg>1</empty_weight_kg>
+		<range_km>1</range_km>
+		<engine>a</engine>
+		<cruise_speed_kmph>1</cruise_speed_kmph>
+		<imgThumb>ass</imgThumb>
+	</Avion>
+</Aviones>
