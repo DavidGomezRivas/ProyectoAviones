@@ -1,0 +1,2 @@
+Esta app recoge información de una app, los carga a una base de datos desde una en java para PC, en la cual puedes añadir, modificar o borrar aviones, también puedes visualizar los datos.
+La otra app está hecha para Android y mostrará todos los aviones de la base de datos, primero mostrar una imagen, marca y modelo, cuando pulsas un avión mostrar más datos en detalle, también puedes filtrar por marca y modelo.
